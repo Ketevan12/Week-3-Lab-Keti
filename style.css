@@ -1,0 +1,220 @@
+body  {
+    background-image: url("IMG_7153.jpg");
+    background-attachment: fixed;
+      background-size:100% auto
+  }
+  .one{position: absolute;
+    width: 1000px;
+    height: 500px;
+    left: 5px;
+    top: -220px;
+    font-family: 'Helvetica Neue';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 200px;
+    line-height: 186.1%;
+    /* or 558px */
+    letter-spacing: -0.025em;
+    
+    color: #FF0000;}
+    .two{position: absolute;
+        width: 1977px;
+        height: 557px;
+        left: -10px;
+        top: 90px;
+        font-family: 'Helvetica Neue';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 180px;
+        line-height: 88.1%;
+        /* or 264px */
+        letter-spacing: -0.04em;
+        color: #FF0000
+       }
+    .three{
+        position: absolute;
+width: 1977px;
+height: 557px;
+left: 2px;
+top: 50px;
+
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 100;
+font-size: 180px;
+line-height: 88.1%;
+/* or 264px */
+letter-spacing: -0.04em;
+
+color: #000000;
+    }
+    .four{
+    position: absolute;
+width: 2347px;
+height: 542px;
+left: 100px;
+top: 150px;
+
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 180px;
+line-height: 88.1%;
+/* or 264px */
+letter-spacing: 0.050em;
+
+color: #FF0000;}
+.five{position: absolute;
+    width: 943px;
+    height: 238px;
+    left: 1230px;
+    top: 50px;
+    
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 149.1%;
+    /* or 119px */
+    letter-spacing: 0.17em;
+    
+    color: #000000;}
+
+.six{position: absolute;
+    width: 943px;
+    height: 238px;
+    left: 1230px;
+    top: 90px;
+    
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 149.1%;
+    /* or 119px */
+    letter-spacing: 0.17em;
+    
+    color: #000000;}
+    .seven{
+    position: absolute;
+    width: 943px;
+    height: 37px;
+    left: 1400px;
+    top: 800px;
+    
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 76.1%;
+    /* identical to box height, or 37px */
+    
+    letter-spacing: -0.015em;
+    
+    color: #000000;}
+
+    .eight{
+    position: absolute;
+    width: 943px;
+    height: 37px;
+    left: 1480px;
+    top: 850px;
+    
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 76.1%;
+    /* identical to box height, or 37px */
+    
+    letter-spacing: -0.015em;
+    
+    color: #000000;}
+    .para1{
+
+position: absolute;
+width: 550px;
+height: 500px;
+left: 20px;
+top: 565px;
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 140;
+font-size: 22px;
+line-height: 79.1%;
+letter-spacing: -0.015em;
+
+color: #000000;
+    }
+    .para2{
+
+        position: absolute;
+        width: 550px;
+        height: 500px;
+        left: 600px;
+        top: 565px;
+        font-family: 'Helvetica Neue';
+        font-style: normal;
+        font-weight: 140;
+        font-size: 22px;
+        line-height: 79.1%;
+        letter-spacing: -0.015em;
+        
+        color: #000000;
+            }
+
+.para3{
+position: absolute;
+width: 520px;
+height: 528px;
+left: 700px;
+top: -17px;
+
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 250;
+font-size: 22px;
+line-height: 76.1%;
+
+
+letter-spacing: -0.015em;
+
+color: rgba(226, 51, 51, 0.3);
+            }
+            .para4{
+                position: absolute;
+                width: 200px;
+                height: 508px;
+                left: 1550px;
+    top: 700px;
+                
+                font-family: 'Helvetica Neue';
+                font-style: normal;
+                font-weight: 270;
+                font-size: 22px;
+                line-height: 76.1%;
+                
+                
+                letter-spacing: -0.015em;
+                
+                color: rgba(226, 51, 51, 0.3);
+                            }
+                            .para5{
+                                position: absolute;
+                                width: 500px;
+                                height: 508px;
+                                left: 1380px;
+                    top: -10px;
+                                
+                                font-family: 'Helvetica Neue';
+                                font-style: normal;
+                                font-weight: 270;
+                                font-size: 22px;
+                                line-height: 76.1%;
+                                
+                                
+                                letter-spacing: -0.015em;
+                                
+                                color: rgba(226, 51, 51, 0.3);
+                                            }
+                                
